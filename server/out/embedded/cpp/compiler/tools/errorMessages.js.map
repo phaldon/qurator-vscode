@@ -1,0 +1,1 @@
+{"version":3,"file":"errorMessages.js","sourceRoot":"","sources":["../../../../../src/embedded/cpp/compiler/tools/errorMessages.ts"],"names":[],"mappings":"AAAA;;GAEG;AAEH,YAAY,CAAC;;AAEb,IAAiB,aAAa,CAI7B;AAJD,WAAiB,aAAa;IAC1B,SAAgB,qBAAqB,CAAC,cAAsB;QACxD,OAAO,GAAG,cAAc,+BAA+B,CAAC;IAC5D,CAAC;IAFe,mCAAqB,wBAEpC,CAAA;AACL,CAAC,EAJgB,aAAa,GAAb,qBAAa,KAAb,qBAAa,QAI7B"}
